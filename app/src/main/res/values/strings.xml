@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Learning Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="title">کلاس اندروید سماتک</string>
+    <string name="login_form">فرم ورود</string>
+    <string name="fill_user_name">لطفا" نام کاربری را وارد نمایید</string>
+    <string name="fill_password">لطفا" رمز عبور را وارد نمایید</string>
+    <string name="login">ورود</string>
+    <string name="please_fill_form_full">لطفا" فرم را بصورت کامل پر نمایید</string>
+    <string name="login_successful">شما با موفقیت وارد شدید</string>
+    <string name="login_failed">اطلاعات وارد شده صحیح نمی باشد</string>
+    <string name="home">صفحه اصلی</string>
+    <string name="calculator">ماشین حساب</string>
+    <string name="logout">خروج</string>
+    <string name="register_form">فرم ثبت نام</string>
+    <string name="fill_repeat_password">لطفا" تکرار رمز عبور را وارد نمایید</string>
+    <string name="password_not_match">تکرار رمز عبور صحیح نمی باشد</string>
+
+    <string name="error_no_city_selected">لطفا" نام شهر را وارد نمایید</string>
+    <string name="error_no_city_founded">شهر مورد نظر یافت نشد</string>
+    <string name="btn_search">جستجو</string>
+    <string name="txt_search">لطفا" نام شهر را وارد نمایید</string>
+    <string name="city">شهر</string>
+    <string name="country">کشور</string>
+    <string name="high">بالاترین دما</string>
+    <string name="low">کم ترین دما</string>
+    <string name="text">وضعیت</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_test_broad_cast">TestBroadCastActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+</resources>
